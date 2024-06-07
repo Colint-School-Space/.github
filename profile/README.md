@@ -22,9 +22,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/Elania-Marvers/Elania-Marvers/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="left">
